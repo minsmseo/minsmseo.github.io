@@ -1,6 +1,8 @@
 # Welcome to My Github 
 
-This place will be used for my study:
+This place will be used for OSS
+
+Student_no : 2020071594
 
 Interested in:
 
