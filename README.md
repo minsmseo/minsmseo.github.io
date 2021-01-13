@@ -1,8 +1,6 @@
 # Welcome to My Github 
 
-This place will be used for OSS
-
-Student_no : 2020071594
+University: Erica University
 
 Interested in:
 
